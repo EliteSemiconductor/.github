@@ -15,7 +15,7 @@ Address: No.23, Industry E Rd. IV Hsinchu Science Park, Hsinchu 300093, Taiwan, 
 TEL: +886-3-5781970 
 
 #ESMT Business Development Office-IoT Solution IC
-Address : No.23 Industrial East Fourth Road, Science Park, Hsinchu City    
+Address : No.23 Industrial East Fourth Road, Science Park, Hsinchu City
 TEL : +886-3-5781970 Ext. 6272
 
 #Shenzhen Subsidiary - Elite Semiconductor Microelectronics Technology (shenzhen) Inc.
@@ -24,7 +24,7 @@ TEL : +86-755-8349-4369
 
 #Shanghai Subsidiary - Elite Semiconductor Microelectronics (Shanghai) Technology Inc.
 Address : Unit 2515, Civil Aviation Center,18 Xin Jin Qiao Road, Pudong, Shanghai, 201206, China    
-TEL : +86-21-3872-6730    FAX : +86-21-3872-6731
+TEL : +86-21-3872-6730    
 
 Have questions or need support?  
 Please visit our website or reach out through our official support channels.
