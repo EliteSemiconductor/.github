@@ -7,8 +7,8 @@ Here you’ll find resources, examples, and projects related to our products and
 
 Learn more about our events, products, and solutions on our official websites:
 
-- 🌐 Corporate Website: https://www.esmt.com.tw/en  
-- 🌐 IoT Solution Platform: https://wlappl.esmt.com.tw/en
+- 🌐  https://www.esmt.com.tw/en  
+- 🌐  https://wlappl.esmt.com.tw/en
 
 ## 📬 Contact Us
 
