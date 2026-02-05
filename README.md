@@ -1,4 +1,4 @@
-# Welcome to Silicon Labs' GitHub
+# Welcome to ESMT' GitHub
 
 This is the official GitHub organization for **ESMT**.  
 Here you’ll find resources, examples, and projects related to our products and technologies.
