@@ -9,9 +9,9 @@ Find out more about our events, products, and solutions on our official website:
 👉 https://www.esmt.com.tw/en
 
 ## 📬 Contact Us
-#Taipei Office
-Address : 4F, No. 48, Sec. 3, Nangang Rd., Nangang Dist., Taipei City 115607 , Taiwan (R.O.C.)    
-TEL : +886-3-5781970
+#Elite Semiconductor Microelectronics Technology Inc.
+Address: No.23, Industry E Rd. IV Hsinchu Science Park, Hsinchu 300093, Taiwan, R.O.C.   
+TEL: +886-3-5781970   FAX: +886-3-5644432  
 
 #ESMT Business Development Office-IoT Solution IC
 Address : No.23 Industrial East Fourth Road, Science Park, Hsinchu City    
